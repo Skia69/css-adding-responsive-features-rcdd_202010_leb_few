@@ -65,13 +65,13 @@
       display: none;
     }
     
+    header #navbar nav a.menu-icon {
+      display: block;
+    }
     .wrapper #logo h2 { 
       display: none;
     }
     
-    header #navbar nav a.menu-icon {
-      display: inline-block;
-    }
     
     header .wrapper, 
     header #navbar { 
