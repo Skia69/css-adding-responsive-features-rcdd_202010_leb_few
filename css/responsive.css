@@ -75,7 +75,7 @@
     
     header .wrapper, 
     header #navbar { 
-      display: flex;
+      display: block;
     }
     
 }
