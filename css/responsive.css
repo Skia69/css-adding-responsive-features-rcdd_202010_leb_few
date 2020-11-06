@@ -68,10 +68,10 @@
     header #navbar nav a.menu-icon {
       display: block;
     }
+    
     .wrapper #logo h2 { 
       display: none;
     }
-    
     
     header .wrapper, 
     header #navbar { 
